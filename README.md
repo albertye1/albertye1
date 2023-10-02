@@ -8,4 +8,4 @@ Also, I've helped create a [learning portal](https://github.com/wlmchen/learn.th
 ## Currently
 A (current) compilation of lecture notes can be found @ https://github.com/albertye1/notes.
 
-Working on a project to encode, decode, and remove messages from a PNG file in https://github.com/albertye1/thigh-highs-2. So named because it's in Rust.
+Working on a project to encode, decode, and remove messages from a PNG file in https://github.com/albertye1/stegosaurus.
