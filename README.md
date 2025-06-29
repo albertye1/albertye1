@@ -1,4 +1,4 @@
-Hi! I'm Albert, a pending UC Berkeley CS graduate. You can view my portfolio at https://aly.sh.
+Hi! I'm Albert, a UC Berkeley CS alum. You can view my portfolio at https://aly.sh.
 
 ## Cool Repos
 I built [a simple clone](https://github.com/albertye1/wechat_chigua) of Suika game. I've exported the game to WebAssembly, and the game can be played [here](https://suika.aly.sh).
