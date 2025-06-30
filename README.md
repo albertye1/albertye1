@@ -10,3 +10,5 @@ I've done competitive programming throughout high school, and now I teach for [X
 Also, I've helped create a [learning portal](https://github.com/wlmchen/learn.theyei) for AP Microeconomics and AP Macroeconomics as part of the Youth Economics Initiative (YEI).
 
 i use [nixos](https://github.com/albertye1/nix-configs) btw (still a work in progress)
+
+![](https://komarev.com/ghpvc/?username=albertye1&color=573563)
